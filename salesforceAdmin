@@ -1,1 +1,31 @@
+https://youtu.be/Sm-GSxKCYhc?si=jbeNxViqKOujMDYv ----- you tube channel link
 
+SalesForce is a company which provide on demand cloud resources
+on demand cloud resources are 1) saas 2) paas 3) iaas
+governer limits (max utilisation )
+create an account by loginto developer.salesforce.com
+--->SALESFORCE APPS/APPLICATIONS
+collection of tabs---links to open database tables,
+collection of objects---collection of database tables,
+manage the records related to application,
+types of applications(standard and custom)
+standarad - which is given by sales force, custom - created on your own.
+applauncher --> search app-->app manager-->lightning app-->objects--->profiles
+-----------------------------------------------------------------------------------
+objects and tabs
+object is collection of database tables 
+there are two types of objects 1)custom 2)standard both are called as sobjects
+object is also called as collection of fields and records
+records are rows and fields are columns in datebase.
+in developer edition we can create max 400 objects
+
+tabs
+link for a particular object is known as tab
+tabs are ui path to access the object
+types of tabs(web,custom,vf,lc,lp)
+
+fields
+fields represent column inside the table
+used to store the required type of records
+--------------------------------------------------------------------
+formula fields
